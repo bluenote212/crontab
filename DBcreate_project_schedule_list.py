@@ -29,6 +29,9 @@ try:
                                                 {'key':'SD805XL2'},
                                                 {'key':'CV8050C'},
                                                 {'key':'BDCA'},
+                                                {'key':'BD899XA'},
+                                                {'key':'TDCL'},
+												{'key':'SD805XL3'},
     
                                             ]
                                     },
