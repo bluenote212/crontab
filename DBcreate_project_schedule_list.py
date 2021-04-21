@@ -82,7 +82,6 @@ try:
     col.delete_many({"date": day.strftime('%Y-%m-%d')})
     col.insert_many(result_version)
     
-    
     conn.close()
 
 except:
